@@ -4,7 +4,7 @@ This project focuses on predicting house prices using Machine Learning technique
 Objective:-
 To build a predictive model that estimates house prices based on different housing features.
 
-Technologies Used
+Technologies Used:-
 1. Python
 2. Pandas
 3. Numpy
