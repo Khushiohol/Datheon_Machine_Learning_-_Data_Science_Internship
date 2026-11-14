@@ -40,8 +40,3 @@ Conclusion:-
 
 This project demonstrates the application of Machine Learning techniques to predict house prices based on housing data.
 
-Author
-
-Data Science & Machine Learning Internship Project
-7. Model Evaluation
-8. House Price Predict
