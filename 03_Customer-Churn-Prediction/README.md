@@ -8,17 +8,17 @@ To identify customers who many stop using a service based on their historical in
 
 Technologies Used:-
 
-1.Python
-2.Pandas
-3.Numpy
-4.Matplotlib.pyplot
-5.Seaborn
-6.Scikit-learn
+1. Python
+2. Pandas
+3. Numpy
+4. Matplotlib.pyplot
+5. Seaborn
+6. Scikit-learn
 
 Machine Learning Algorithms:-
 
-1.Logistic Regression
-2.Random Forest
+1. Logistic Regression
+2. Random Forest
 
 Project Status:-
 In progress
